@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Kush Patel</h1>
-<h3 align="center">🚀 B.Tech Student | Aspiring Software Developer</h3>
+<h3 align="center">🚀 B.Tech Student | Aspiring Cyber Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;DSA%20Learner;Linux%20Enthusiast;Future%20Software%20Engineer&center=true&width=500&height=50">
@@ -12,7 +12,7 @@
 - 🎓 B.Tech (Computer Science) student
 - 💻 Focused on **Software Development & Problem Solving**
 - 🌱 Learning **C++/C, Linux, HTMl, CSS, Java Script & AWS**
-- 🚀 Goal: Become a **strong Software Engineer**
+- 🚀 Goal: Become a **strong CyberSecurity Expert**
 
 ---
 
