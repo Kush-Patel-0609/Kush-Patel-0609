@@ -61,7 +61,7 @@
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: (add link)
-- 📧 Email: (patelkush.0609@gmail.com)
+- 📧 Email: patelkush.0609@gmail.com
 
 ---
 
