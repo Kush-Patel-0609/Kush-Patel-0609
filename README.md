@@ -11,7 +11,7 @@
 ## 🔥 About Me
 - 🎓 B.Tech (Computer Science) student
 - 💻 Focused on **Software Development & Problem Solving**
-- 🌱 Learning **C++, DSA, Linux & AWS**
+- 🌱 Learning **C++/C, Linux, HTMl, CSS, Java Script & AWS**
 - 🚀 Goal: Become a **strong Software Engineer**
 
 ---
@@ -33,15 +33,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kush-Patel-0609&show_icons=true&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Kush-Patel-0609&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Patel-0609&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,22 +54,14 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🚀 Projects
-- 🔹 Coming Soon... (Add your best projects here)
-- 🔹 Try to include **3–4 strong projects** (important for placement)
+- 🔹 Coming Soon... 
 
 ---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
+- 📧 Email: (patelkush.0609@gmail.com)
 
 ---
 
