@@ -3,14 +3,14 @@
 <h3 align="center">🚀 B.Tech Student | Aspiring Cyber Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;DSA%20Learner;Linux%20Enthusiast;Future%20Software%20Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;Cyber%20Security;Linux%20Enthusiast;Future%20Software%20Engineer&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🔥 About Me
 - 🎓 B.Tech (Computer Science) student
-- 💻 Focused on **Software Development & Problem Solving**
+- 💻 Focused on **Cyber Security, Ethical Hacking & Problem Solving**
 - 🌱 Learning **C++/C, Linux, HTML, CSS, Java Script & AWS**
 - 🚀 Goal: Become a **Strong CyberSecurity Expert**
 
