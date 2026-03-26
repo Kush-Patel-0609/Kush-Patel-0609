@@ -3,7 +3,7 @@
 <h3 align="center">🚀 B.Tech Student | Aspiring Cyber Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;Cyber%20Security;Linux%20Enthusiast;Future%20Software%20Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;Cyber%20Security;Linux%20Enthusiast;Future%20CyberSecurity%20Expert&center=true&width=500&height=50">
 </p>
 
 ---
