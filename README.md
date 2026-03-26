@@ -1,21 +1,83 @@
-# 💫 About Me:
-🔭 B.Tech Student | Aspiring Software Developer<br><br>👯 Open to collaborate on <br>Cool projects, hackathons & open source<br><br>🤝 Need help with <br> Real-world project building<br><br>🌱 Currently learning <br>C++/C , Linux, HTML, CSS & JavaScript<br><br>💬 Ask me about <br>Coding, college life & tech events<br><br>
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Kush Patel</h1>
+<h3 align="center">🚀 B.Tech Student | Aspiring Software Developer</h3>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelkush.0609@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kush-Patel-0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kush-Patel-0609&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Patel-0609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2FC%2B%2B%20Developer;DSA%20Learner;Linux%20Enthusiast;Future%20Software%20Engineer&center=true&width=500&height=50">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kush-Patel-0609&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 About Me
+- 🎓 B.Tech (Computer Science) student
+- 💻 Focused on **Software Development & Problem Solving**
+- 🌱 Learning **C++, DSA, Linux & AWS**
+- 🚀 Goal: Become a **strong Software Engineer**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### ⚙️ Tools & Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Projects
+- 🔹 Coming Soon... (Add your best projects here)
+- 🔹 Try to include **3–4 strong projects** (important for placement)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: (add link)
+- 📧 Email: (add email)
+
+---
+
+## ⚡ Fun Fact
+> I debug code faster than I fix my life 😴💻
+
+---
+
+<p align="center">
+  ⭐️ From <b>Kush Patel</b> — Keep Building 🚀
+</p>
