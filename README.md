@@ -11,8 +11,8 @@
 ## 🔥 About Me
 - 🎓 B.Tech (Computer Science) student
 - 💻 Focused on **Software Development & Problem Solving**
-- 🌱 Learning **C++/C, Linux, HTMl, CSS, Java Script & AWS**
-- 🚀 Goal: Become a **strong CyberSecurity Expert**
+- 🌱 Learning **C++/C, Linux, HTML, CSS, Java Script & AWS**
+- 🚀 Goal: Become a **Strong CyberSecurity Expert**
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,Linux" />
 </p>
 
 ### ⚙️ Tools & Tech
